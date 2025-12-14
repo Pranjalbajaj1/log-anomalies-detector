@@ -1,0 +1,9 @@
+# Ignore compiled files
+*.o
+*.out
+producer
+detector
+
+# Ignore system files
+.DS_Store
+.vscode/
